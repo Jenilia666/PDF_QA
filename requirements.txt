@@ -11,3 +11,4 @@ sentence-transformers
 langchain-community
 python-dotenv
 gunicorn
+Flask
